@@ -1,4 +1,4 @@
-# Umbral Stealer
+# Umbral Stealer - [Reboot]
 ![GitHub](https://img.shields.io/github/license/Blank-c/Umbral-Stealer)
 
 **Free, Open-Source Stealer for Windows.**
@@ -15,35 +15,39 @@ While the program may be used to assess the security of computer systems, it sho
 The author of this program is not liable for any damage, harm, or legal consequences resulting from the use or misuse of this program. By using this program, you acknowledge that you understand the potential risks and agree to assume full responsibility for any actions taken using the program.
 
 ## Features
-- Captures Passwords from 10+ Browsers.
-- Captures Cookies from 10+ Browsers.
-- Captures Discord Tokens.
-- Captures Roblox Cookies.
-- Captures Minecraft Session Files.
-- Captures Machine Info.
-- Captures Webcam Photos.
-- Captures IP Address.
-- Captures Screenshot(s) of All Monitors.
-- Captures Wallets.
-- Captures Telegram Sessions.
-- Blocks AV Sites (Buggy).
-- Adds itself to Startup.
-- Anti-Virtual Machine.
-- Obfuscation.
-- Self Destruct.
+- [X] Captures Passwords from 10+ Browsers.
+- [X] Captures Cookies from 10+ Browsers.
+- [X] Captures Discord Tokens.
+- [X] Captures Roblox Cookies.
+- [X] Captures Minecraft Session Files.
+- [X] Captures Machine Info.
+- [X] Captures Webcam Photos.
+- [X] Captures IP Address.
+- [X] Captures Screenshot(s) of All Monitors.
+- [X] Captures Wallets.
+- [X] Captures Telegram Sessions.
+- [X] Blocks AV Sites (Buggy).
+- [X] Adds itself to Startup.
+- [X] Anti-Virtual Machine.
+- [X] Obfuscation.
+- [X] Self Destruct.
 
 ## Customizations
 - Custom Payload Icon.
 - Custom Assembly Information.
 - Custom File Name.
 
-## Download
-Head over to the [releases](https://github.com/Blank-c/Umbral-Stealer/releases/latest) tab to download the latest version of Umbral Stealer.
+## New Features
+- [X] AntiVM Crashes PC
+- [X] New UI
+<div style="text-align:center;">
+    <img src="https://i.postimg.cc/50qYH4Sm/Screenshot-2024-03-16-165534.png" alt="Your Image" />
+</div>
 
 **Note:** If you didn't get any result while testing Umbral on yourself, you may try to turn off "Anti VM" as Umbral might have detected your system as a virtual machine.
 
 ## Stay Updated
-Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
+Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support and enjoy the reboot!
 
 <br><hr>
 [🔼 Back to top](#top)
