@@ -53,6 +53,11 @@ Head over to the [releases](https://github.com/Blank-c/Umbral-Stealer/releases/l
 
 **Note:** If you didn't get any result while testing Umbral on yourself, you may try to turn off "Anti VM" as Umbral might have detected your system as a virtual machine.
 
+## Picture
+<div style="text-align:center;">
+    <img src="https://i.postimg.cc/50qYH4Sm/Screenshot-2024-03-16-165534.png" alt="Your Image" />
+</div>
+
 ## Stay Updated
 Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
 
