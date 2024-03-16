@@ -44,6 +44,7 @@ The author of this program is not liable for any damage, harm, or legal conseque
     <img src="https://i.postimg.cc/50qYH4Sm/Screenshot-2024-03-16-165534.png" alt="Your Image" />
 </div>
 
+Credits to Blank-C
 **Note:** If you didn't get any result while testing Umbral on yourself, you may try to turn off "Anti VM" as Umbral might have detected your system as a virtual machine.
 
 ## Stay Updated
